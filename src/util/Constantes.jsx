@@ -1,0 +1,1 @@
+export const APP_NAME = "Ordem Serviços APP"
